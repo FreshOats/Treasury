@@ -1,205 +1,205 @@
 Property_ID,Owner_Type,Owner_Name,Property_Type,Reported_Date,Property_Value,Claim_Status
-UP0001,Vendor,"Rodriguez, Nguyen and Elliott",Safe Deposit Box,2018-09-30,5011.73,Unclaimed
-UP0002,Individual,Cynthia Baker,Bank Account,2022-03-31,8860.79,Unclaimed
-UP0003,Individual,Andrew Barnes,Insurance Claim,2022-03-31,6253.99,Unclaimed
-UP0004,Individual,Jennifer Briggs,Safe Deposit Box,2018-12-31,7916.36,Unclaimed
-UP0005,Individual,Krista Spence,Insurance Claim,2018-12-31,443.81,Unclaimed
-UP0006,Vendor,Johnson Group,Insurance Claim,2022-09-30,195.39,Claimed
-UP0007,Vendor,Burke-Vargas,Uncashed Check,2022-03-31,1105.76,Unclaimed
-UP0008,Individual,David Calhoun,Uncashed Check,2023-03-31,5789.16,Unclaimed
-UP0009,Vendor,White Ltd,Bonds,2023-03-31,6484.39,Claimed
-UP0010,Vendor,Maldonado LLC,Uncashed Check,2022-09-30,6958.52,Unclaimed
-UP0011,Individual,Kylie Larsen,Uncashed Check,2020-06-30,3519.31,Unclaimed
-UP0012,Vendor,Watts-Erickson,Stocks,2023-06-30,7142.33,Unclaimed
-UP0013,Individual,Jessica Williams,Uncashed Check,2022-12-31,9611.31,Unclaimed
-UP0014,Vendor,French PLC,Bonds,2023-12-31,588.12,Unclaimed
-UP0015,Vendor,Peterson-Johnson,Safe Deposit Box,2022-03-31,4853.34,Unclaimed
-UP0016,Vendor,Brown-Lucero,Bonds,2022-03-31,3563.7,Claimed
-UP0017,Individual,Eric Martinez,Insurance Claim,2022-09-30,3734.69,Unclaimed
-UP0018,Vendor,"Miller, Singh and Smith",Insurance Claim,2019-03-31,25.8937,Unclaimed
+UP0001,Vendor,"Carroll, Rodriguez and Morgan",Safe Deposit Box,2018-09-30,5011.73,Unclaimed
+UP0002,Individual,Kyle Stark,Bank Account,2022-03-31,8860.79,Unclaimed
+UP0003,Individual,Kelly Robinson DDS,Insurance Claim,2022-03-31,6253.99,Unclaimed
+UP0004,Individual,Dylan Bryant,Safe Deposit Box,2018-12-31,7916.36,Unclaimed
+UP0005,Individual,Christopher Chavez,Insurance Claim,2018-12-31,443.81,Unclaimed
+UP0006,Vendor,Brennan-Leonard,Insurance Claim,2022-09-30,195.39,Claimed
+UP0007,Vendor,"Perry, Castro and Gonzalez",Uncashed Check,2022-03-31,1105.76,Unclaimed
+UP0008,Individual,Albert Schultz,Uncashed Check,2023-03-31,5789.16,Unclaimed
+UP0009,Vendor,"Smith, Lopez and Sanders",Bonds,2023-03-31,6484.39,Claimed
+UP0010,Vendor,"Knight, Reed and Price",Uncashed Check,2022-09-30,6958.52,Unclaimed
+UP0011,Individual,Craig Murphy,Uncashed Check,2020-06-30,3519.31,Unclaimed
+UP0012,Vendor,"Foster, Romero and Harrison",Stocks,2023-06-30,7142.33,Unclaimed
+UP0013,Individual,Timothy Rich,Uncashed Check,2022-12-31,9611.31,Unclaimed
+UP0014,Vendor,"Lin, Graves and Jones",Bonds,2023-12-31,588.12,Unclaimed
+UP0015,Vendor,Gonzalez-Beasley,Safe Deposit Box,2022-03-31,4853.34,Unclaimed
+UP0016,Vendor,George-Tran,Bonds,2022-03-31,3563.7,Claimed
+UP0017,Individual,Marissa Moore,Insurance Claim,2022-09-30,3734.69,Unclaimed
+UP0018,Vendor,Dean Inc,Insurance Claim,2019-03-31,25.8937,Unclaimed
 UP0019,Vendor,,Bonds,2023-06-30,6835.23,Unclaimed
-UP0020,Individual,Susan Robertson,Stocks,2023-06-30,3138.87,Claimed
-UP0021,Vendor,Lewis-Johnson,Safe Deposit Box,2022-12-31,4838.73,Claimed
-UP0022,Vendor,Lee-Dunn,Uncashed Check,2021-12-31,8884.46,Claimed
+UP0020,Individual,Sandra Brown,Stocks,2023-06-30,3138.87,Claimed
+UP0021,Vendor,"Johnson, Melendez and Munoz",Safe Deposit Box,2022-12-31,4838.73,Claimed
+UP0022,Vendor,Obrien PLC,Uncashed Check,2021-12-31,8884.46,Claimed
 UP0023,Vendor,,Bonds,2019-06-30,7321.07,Claimed
-UP0024,Individual,Reginald Ramirez,Bank Account,2019-03-31,2711.4,Unclaimed
-UP0025,Individual,Tracy Newman,Bonds,2018-09-30,1738.4,Claimed
-UP0026,Vendor,"Walton, Thomas and Larsen",Insurance Claim,2019-06-30,1274.16,Unclaimed
-UP0027,Individual,Kevin Wilson,Bank Account,2023-06-30,2618.38,Claimed
-UP0028,Vendor,Cummings-Daniels,Stocks,2019-03-31,5067.53,Claimed
-UP0029,Vendor,"Bradshaw, Doyle and Hill",Bank Account,2022-03-31,2125.81,Unclaimed
-UP0030,Vendor,Kennedy-Lopez,Bank Account,2023-06-30,8958.61,Unclaimed
-UP0031,Individual,Felicia Brooks,Bank Account,2023-03-31,9757.7,Unclaimed
-UP0032,Vendor,"Rodriguez, Evans and Avila",Uncashed Check,2020-12-31,4376.79,Claimed
-UP0033,Vendor,Huang-Taylor,Uncashed Check,2019-06-30,6682.11,Claimed
-UP0034,Vendor,Adams Ltd,Bank Account,2021-12-31,149.72,Unclaimed
-UP0035,Vendor,"Murray, Fuller and Smith",Bank Account,2021-12-31,4361.99,Claimed
-UP0036,Individual,Barry Banks,Stocks,2022-12-31,9562.09,Unclaimed
-UP0037,Vendor,Hunt-Hill,Safe Deposit Box,2019-12-31,3739.78,Unclaimed
-UP0038,Vendor,Hall Inc,Bank Account,2019-12-31,810.77,Claimed
-UP0039,Individual,Joseph Stark,Bank Account,2020-09-30,8033.96,Claimed
-UP0040,Individual,Alyssa Johnson,Bonds,2020-12-31,456.28,Claimed
-UP0041,Vendor,Oliver Ltd,Bonds,2021-03-31,3657.81,Claimed
-UP0042,Vendor,Nelson Ltd,Insurance Claim,2021-06-30,7632.07,Unclaimed
-UP0043,Vendor,Morrow Ltd,Safe Deposit Box,2023-06-30,4804.22,Unclaimed
-UP0044,Individual,Edward Price,Bonds,2022-12-31,4911.44,Unclaimed
-UP0045,Individual,Kirsten Hunter,Uncashed Check,2019-12-31,1197.14,Unclaimed
-UP0046,Vendor,Whitehead Group,Stocks,2018-03-31,6293.34,Unclaimed
-UP0047,Individual,Antonio Lawrence,Bank Account,2019-09-30,4025.97,Claimed
-UP0048,Individual,Terry Morales,Safe Deposit Box,2019-12-31,2531.88,Unclaimed
-UP0049,Vendor,Green-Wood,Bonds,2018-09-30,5219.32,Claimed
-UP0050,Individual,Dr. Vanessa Michael,Bank Account,2022-06-30,7548.69,Unclaimed
-UP0051,Individual,Clinton Leblanc,Insurance Claim,2020-06-30,3914.23,Unclaimed
-UP0052,Vendor,Montoya LLC,Uncashed Check,2018-03-31,3231.14,Unclaimed
-UP0053,Vendor,Briggs LLC,Stocks,2021-06-30,791.25,Unclaimed
-UP0054,Individual,JOSEPH HILL,Insurance Claim,2020-03-31,8174.25,Unclaimed
-UP0055,Individual,Brooke Clarke,Insurance Claim,2021-03-31,9341.57,Unclaimed
-UP0056,Vendor,Williams Ltd,Uncashed Check,2019-09-30,7242.34,Unclaimed
-UP0057,Vendor,Mendoza-Mcdonald,Bonds,2022-03-31,7981.45,Unclaimed
-UP0058,Individual,Corey Griffin,Bank Account,2023-09-30,2556.96,Unclaimed
-UP0059,Vendor,"Pierce, Mendoza and Hill",Insurance Claim,2018-06-30,3715.56,Unclaimed
-UP0060,Individual,Audrey Rodriguez,Uncashed Check,2020-12-31,1676.05,Unclaimed
-UP0061,Vendor,Reed Inc,Insurance Claim,2018-06-30,2516.92,Claimed
-UP0062,Vendor,"Thomas, Jones and Wright",Uncashed Check,2023-03-31,637.42,Unclaimed
-UP0063,Vendor,"Hall, Werner and Casey",Stocks,2018-09-30,4021.96,Unclaimed
-UP0064,Individual,Erika Ford,Insurance Claim,2020-12-31,8992.49,Unclaimed
-UP0065,Vendor,Romero LLC,Bonds,2021-03-31,2646.1,Unclaimed
-UP0066,Individual,Bryce Fitzgerald,Insurance Claim,2019-09-30,5560.48,Claimed
-UP0067,Vendor,"Mcbride, Vasquez and Leon",Bank Account,2020-12-31,2758.22,Unclaimed
-UP0068,Individual,Danielle Andersen,Insurance Claim,2018-09-30,6760.38,Claimed
-UP0069,Vendor,"Dominguez, Wilson and Molina",Bonds,2023-06-30,2371.07,Unclaimed
-UP0070,Individual,Carl Santos,Bonds,2023-09-30,6652.28,Claimed
-UP0071,Vendor,Thompson-Barker,Insurance Claim,2023-09-30,9238.14,Unclaimed
-UP0072,Individual,Felicia Harris,Uncashed Check,2020-12-31,6892.44,Claimed
-UP0073,Vendor,Salas-Anderson,Safe Deposit Box,2019-06-30,6769.09,Unclaimed
-UP0074,Vendor,"Thornton, Elliott and Cline",Uncashed Check,2018-12-31,9290.11,Unclaimed
-UP0075,Individual,Christopher Carter,Uncashed Check,2020-03-31,6473.32,Claimed
-UP0076,Individual,Rachel Adams,Insurance Claim,2023-12-31,3232.51,Unclaimed
-UP0077,Individual,Laura Hawkins,Bank Account,2022-09-30,834.95,Unclaimed
-UP0078,Individual,Diana Mckenzie,Bank Account,2020-06-30,9977.62,Unclaimed
-UP0079,Vendor,Adams Inc,Stocks,2021-12-31,9628.7,Unclaimed
-UP0080,Vendor,Martin Ltd,Bonds,2021-12-31,462.94,Claimed
-UP0081,Vendor,"Atkinson, Stevens and Hoffman",Bank Account,2019-03-31,1360.89,Unclaimed
-UP0082,Individual,Jason Andrews,Bonds,2021-09-30,2542.8,Unclaimed
-UP0083,Vendor,Lester Group,Bonds,2019-06-30,9390.14,Unclaimed
-UP0084,Individual,Ryan Williams,Safe Deposit Box,2022-06-30,8385.99,Unclaimed
-UP0085,Individual,Nicole Bowers,Bonds,2019-03-31,3310.45,Unclaimed
-UP0086,Individual,Katelyn Obrien,Bank Account,2022-06-30,3405.48,Unclaimed
-UP0087,Individual,Kelly Lowery,Uncashed Check,2018-06-30,6238.87,Unclaimed
-UP0088,Individual,Catherine Howard,Insurance Claim,2020-12-31,3162.06,Claimed
-UP0089,Individual,Linda Harris,Uncashed Check,2023-09-30,6217.9,Claimed
-UP0090,Individual,Debra Floyd,Bank Account,2021-06-30,7154.84,Unclaimed
-UP0091,Individual,Joanna David,Safe Deposit Box,2018-06-30,729.92,Unclaimed
-UP0092,Vendor,Richardson Ltd,Stocks,2022-12-31,8545.11,Unclaimed
-UP0093,Vendor,Dixon LLC,Uncashed Check,2021-03-31,3096.62,Claimed
-UP0094,Vendor,Myers-Owens,Insurance Claim,2023-03-31,2970.4,Unclaimed
-UP0095,Individual,Michelle Johnson,Uncashed Check,2020-03-31,1084.87,Claimed
-UP0096,Vendor,May and Sons,Bonds,2022-09-30,466.2,Claimed
-UP0097,Individual,Gail Henderson,Safe Deposit Box,2023-12-31,9725.99,Unclaimed
-UP0098,Vendor,Jones-Hurley,Bank Account,2021-12-31,9015.22,Claimed
-UP0099,Vendor,"Porter, Carlson and Calhoun",Uncashed Check,2019-06-30,9546.51,Claimed
-UP0100,Individual,Stacie Wright,Safe Deposit Box,2018-06-30,1402.05,Unclaimed
-UP0101,Vendor,"Logan, Collins and Edwards",Stocks,2022-09-30,8436.46,Unclaimed
-UP0102,Vendor,"Mcdonald, Alvarez and Trujillo",Safe Deposit Box,2020-06-30,4407.13,Unclaimed
-UP0103,Vendor,Rodriguez Inc,Insurance Claim,2022-06-30,3531.85,Claimed
-UP0104,Individual,Donald Logan,Stocks,2023-09-30,6610.45,Unclaimed
-UP0105,Vendor,Strong-Moran,Bank Account,2023-12-31,9308.08,Unclaimed
-UP0106,Individual,Timothy Kline,Stocks,2023-12-31,4900.97,Unclaimed
-UP0107,Vendor,"White, Black and Mckay",Stocks,2023-03-31,7952.6,Unclaimed
-UP0108,Vendor,Hughes Inc,Insurance Claim,2023-06-30,5411.16,Unclaimed
-UP0109,Vendor,Nelson-Potts,Stocks,2019-09-30,6161.43,Claimed
-UP0110,Individual,Geoffrey Sellers,Insurance Claim,2019-03-31,5611.67,Claimed
-UP0111,Individual,Harold Goodwin,Safe Deposit Box,2019-06-30,7377.97,Unclaimed
-UP0112,Vendor,White Inc,Bonds,2022-06-30,9264.18,Unclaimed
-UP0113,Vendor,Jones-Holland,Insurance Claim,2022-03-31,4797.2,Claimed
-UP0114,Vendor,Hernandez PLC,Uncashed Check,2018-03-31,2518.61,Unclaimed
-UP0115,Vendor,"Clayton, Byrd and Patton",Bank Account,2021-03-31,8206.69,Unclaimed
-UP0116,Vendor,"Whitaker, Williams and Brown",Uncashed Check,2023-06-30,5107.18,Claimed
-UP0117,Individual,Ernest Shannon,Insurance Claim,2023-03-31,2738.83,Unclaimed
-UP0118,Vendor,"Whitaker, Ramirez and Gordon",Stocks,2020-03-31,3644.11,Unclaimed
-UP0119,Individual,Joy Hunter,Uncashed Check,2020-03-31,1622.35,Unclaimed
-UP0120,Individual,Donald Garcia,Safe Deposit Box,2019-12-31,7498.29,Claimed
-UP0121,Vendor,Jackson PLC,Stocks,2019-06-30,725.97,Claimed
-UP0122,Individual,Susan Burns,Stocks,2021-06-30,5254.38,Unclaimed
-UP0123,Vendor,Mcbride-Beck,Uncashed Check,2018-12-31,449.73,Unclaimed
-UP0124,Vendor,Thompson-Thomas,Safe Deposit Box,2018-12-31,8369.99,Unclaimed
-UP0125,Vendor,Short-Weiss,Bank Account,2021-03-31,3440.22,Unclaimed
-UP0126,Individual,Michael Davis,Safe Deposit Box,2023-06-30,6301.12,Unclaimed
-UP0127,Individual,Timothy Hernandez,Uncashed Check,2020-06-30,3117.56,Unclaimed
-UP0128,Vendor,"Gonzalez, Stewart and Zimmerman",Bonds,2022-03-31,5809.68,Unclaimed
-UP0129,Individual,Eduardo George,Bonds,2019-12-31,9029.75,Unclaimed
-UP0130,Individual,Kristin Taylor,Insurance Claim,2020-06-30,6128.39,Claimed
-UP0131,Vendor,Matthews-Pierce,Insurance Claim,2021-09-30,6478.84,Unclaimed
-UP0132,Vendor,"Hughes, Thomas and Schmidt",,2022-12-31,7508.06,Claimed
-UP0133,Vendor,Whitaker PLC,Stocks,2023-12-31,1585.96,Claimed
-UP0134,Individual,Tyler Allen,Uncashed Check,2019-09-30,349.92,Claimed
-UP0135,Individual,Phillip Jacobs,Safe Deposit Box,2023-12-31,3198.57,Unclaimed
-UP0136,Vendor,"HUGHES, BRADFORD AND OLIVER",Bonds,2022-06-30,5064.99,Unclaimed
-UP0137,Individual,Maria Barnes,Bank Account,2022-06-30,195.31,Unclaimed
-UP0138,Individual,Amanda Mitchell,Safe Deposit Box,2021-06-30,7615.35,Unclaimed
-UP0139,Individual,Christine Warren,Insurance Claim,2021-03-31,1922.15,Claimed
-UP0140,Individual,Mia Nguyen,Insurance Claim,2019-09-30,4904.96,Unclaimed
-UP0141,Vendor,Mooney-Daniels,Uncashed Check,2019-09-30,6561.68,Unclaimed
-UP0142,Individual,Harry King,Insurance Claim,2021-09-30,9367.79,Unclaimed
-UP0143,Vendor,Guerrero PLC,Stocks,2020-03-31,9221.85,Unclaimed
-UP0144,Vendor,Calderon-Macdonald,Insurance Claim,2023-06-30,8957.93,Unclaimed
-UP0145,Vendor,Hartman-Castillo,Safe Deposit Box,2022-12-31,5917.79,Unclaimed
-UP0146,Individual,Jimmy Luna,Safe Deposit Box,2022-03-31,5418.93,Claimed
-UP0147,Vendor,Young-Johnson,Safe Deposit Box,2018-09-30,9710.85,Unclaimed
-UP0148,Vendor,Fuller-Ramirez,Uncashed Check,2023-06-30,3123.39,Unclaimed
-UP0149,Individual,Caleb Beasley,Bonds,2018-03-31,7491.32,Claimed
-UP0150,Individual,Paul Riley,Safe Deposit Box,2018-12-31,9727.89,Unclaimed
+UP0024,Individual,Stephanie Wright,Bank Account,2019-03-31,2711.4,Unclaimed
+UP0025,Individual,Bethany Mathis,Bonds,2018-09-30,1738.4,Claimed
+UP0026,Vendor,Solis-Walker,Insurance Claim,2019-06-30,1274.16,Unclaimed
+UP0027,Individual,Brianna Bradley,Bank Account,2023-06-30,2618.38,Claimed
+UP0028,Vendor,Snyder-Daniel,Stocks,2019-03-31,5067.53,Claimed
+UP0029,Vendor,"Richardson, Johnson and Franklin",Bank Account,2022-03-31,2125.81,Unclaimed
+UP0030,Vendor,Lynch-Cox,Bank Account,2023-06-30,8958.61,Unclaimed
+UP0031,Individual,Robert Newton,Bank Account,2023-03-31,9757.7,Unclaimed
+UP0032,Vendor,"Adams, Jackson and Whitney",Uncashed Check,2020-12-31,4376.79,Claimed
+UP0033,Vendor,Bowman-Friedman,Uncashed Check,2019-06-30,6682.11,Claimed
+UP0034,Vendor,Fleming-Calderon,Bank Account,2021-12-31,149.72,Unclaimed
+UP0035,Vendor,Hardy-Swanson,Bank Account,2021-12-31,4361.99,Claimed
+UP0036,Individual,Lynn Stewart,Stocks,2022-12-31,9562.09,Unclaimed
+UP0037,Vendor,Boyd Inc,Safe Deposit Box,2019-12-31,3739.78,Unclaimed
+UP0038,Vendor,Becker-Jacobs,Bank Account,2019-12-31,810.77,Claimed
+UP0039,Individual,Sharon Molina,Bank Account,2020-09-30,8033.96,Claimed
+UP0040,Individual,Tina Kaufman,Bonds,2020-12-31,456.28,Claimed
+UP0041,Vendor,Brown-Medina,Bonds,2021-03-31,3657.81,Claimed
+UP0042,Vendor,"Mann, Miller and Hernandez",Insurance Claim,2021-06-30,7632.07,Unclaimed
+UP0043,Vendor,Gonzales-Johnson,Safe Deposit Box,2023-06-30,4804.22,Unclaimed
+UP0044,Individual,Lacey Daniels,Bonds,2022-12-31,4911.44,Unclaimed
+UP0045,Individual,Patricia Watson,Uncashed Check,2019-12-31,1197.14,Unclaimed
+UP0046,Vendor,Benjamin-Medina,Stocks,2018-03-31,6293.34,Unclaimed
+UP0047,Individual,Michael Hughes,Bank Account,2019-09-30,4025.97,Claimed
+UP0048,Individual,Timothy Reese,Safe Deposit Box,2019-12-31,2531.88,Unclaimed
+UP0049,Vendor,"Kline, Ewing and Smith",Bonds,2018-09-30,5219.32,Claimed
+UP0050,Individual,Patrick Carter,Bank Account,2022-06-30,7548.69,Unclaimed
+UP0051,Individual,Kiara Lee,Insurance Claim,2020-06-30,3914.23,Unclaimed
+UP0052,Vendor,"Reyes, Martinez and Middleton",Uncashed Check,2018-03-31,3231.14,Unclaimed
+UP0053,Vendor,Paul Group,Stocks,2021-06-30,791.25,Unclaimed
+UP0054,Individual,SARAH OWEN,Insurance Claim,2020-03-31,8174.25,Unclaimed
+UP0055,Individual,Ronald Barr,Insurance Claim,2021-03-31,9341.57,Unclaimed
+UP0056,Vendor,"Jordan, Stone and Dixon",Uncashed Check,2019-09-30,7242.34,Unclaimed
+UP0057,Vendor,"Cruz, Berry and Campbell",Bonds,2022-03-31,7981.45,Unclaimed
+UP0058,Individual,Crystal Kirby,Bank Account,2023-09-30,2556.96,Unclaimed
+UP0059,Vendor,Stewart-Green,Insurance Claim,2018-06-30,3715.56,Unclaimed
+UP0060,Individual,Derrick Nichols,Uncashed Check,2020-12-31,1676.05,Unclaimed
+UP0061,Vendor,"Graves, Simmons and Brown",Insurance Claim,2018-06-30,2516.92,Claimed
+UP0062,Vendor,Williams LLC,Uncashed Check,2023-03-31,637.42,Unclaimed
+UP0063,Vendor,Johnston-Davis,Stocks,2018-09-30,4021.96,Unclaimed
+UP0064,Individual,Alisha Ward,Insurance Claim,2020-12-31,8992.49,Unclaimed
+UP0065,Vendor,Roman-Taylor,Bonds,2021-03-31,2646.1,Unclaimed
+UP0066,Individual,Kristy Sanchez,Insurance Claim,2019-09-30,5560.48,Claimed
+UP0067,Vendor,"Hale, James and Garcia",Bank Account,2020-12-31,2758.22,Unclaimed
+UP0068,Individual,Janet Allison,Insurance Claim,2018-09-30,6760.38,Claimed
+UP0069,Vendor,Lee-Meyer,Bonds,2023-06-30,2371.07,Unclaimed
+UP0070,Individual,Jared Huff,Bonds,2023-09-30,6652.28,Claimed
+UP0071,Vendor,"Herrera, Campbell and Rios",Insurance Claim,2023-09-30,9238.14,Unclaimed
+UP0072,Individual,Thomas Brewer,Uncashed Check,2020-12-31,6892.44,Claimed
+UP0073,Vendor,Chapman and Sons,Safe Deposit Box,2019-06-30,6769.09,Unclaimed
+UP0074,Vendor,Duarte-Gardner,Uncashed Check,2018-12-31,9290.11,Unclaimed
+UP0075,Individual,Juan Medina,Uncashed Check,2020-03-31,6473.32,Claimed
+UP0076,Individual,Michael Riley,Insurance Claim,2023-12-31,3232.51,Unclaimed
+UP0077,Individual,Sharon Coleman,Bank Account,2022-09-30,834.95,Unclaimed
+UP0078,Individual,Alejandra Murphy,Bank Account,2020-06-30,9977.62,Unclaimed
+UP0079,Vendor,"Salazar, Vang and Scott",Stocks,2021-12-31,9628.7,Unclaimed
+UP0080,Vendor,Green-Fuentes,Bonds,2021-12-31,462.94,Claimed
+UP0081,Vendor,"Smith, Mathis and Simon",Bank Account,2019-03-31,1360.89,Unclaimed
+UP0082,Individual,Pam Tran,Bonds,2021-09-30,2542.8,Unclaimed
+UP0083,Vendor,Dixon-Miller,Bonds,2019-06-30,9390.14,Unclaimed
+UP0084,Individual,Tammy Jackson,Safe Deposit Box,2022-06-30,8385.99,Unclaimed
+UP0085,Individual,Mary Gonzalez,Bonds,2019-03-31,3310.45,Unclaimed
+UP0086,Individual,Carrie Moore,Bank Account,2022-06-30,3405.48,Unclaimed
+UP0087,Individual,Jessica Pena,Uncashed Check,2018-06-30,6238.87,Unclaimed
+UP0088,Individual,Amber Hines,Insurance Claim,2020-12-31,3162.06,Claimed
+UP0089,Individual,Louis Mann,Uncashed Check,2023-09-30,6217.9,Claimed
+UP0090,Individual,Tyler Lowe,Bank Account,2021-06-30,7154.84,Unclaimed
+UP0091,Individual,Dr. Gregory Hughes,Safe Deposit Box,2018-06-30,729.92,Unclaimed
+UP0092,Vendor,Lee LLC,Stocks,2022-12-31,8545.11,Unclaimed
+UP0093,Vendor,Mitchell-Sanchez,Uncashed Check,2021-03-31,3096.62,Claimed
+UP0094,Vendor,Davis-Morgan,Insurance Claim,2023-03-31,2970.4,Unclaimed
+UP0095,Individual,Michele Farrell,Uncashed Check,2020-03-31,1084.87,Claimed
+UP0096,Vendor,"Garrett, Mitchell and Lewis",Bonds,2022-09-30,466.2,Claimed
+UP0097,Individual,Lisa Wilson,Safe Deposit Box,2023-12-31,9725.99,Unclaimed
+UP0098,Vendor,Simon-Jones,Bank Account,2021-12-31,9015.22,Claimed
+UP0099,Vendor,Perry Ltd,Uncashed Check,2019-06-30,9546.51,Claimed
+UP0100,Individual,Daniel Fuller,Safe Deposit Box,2018-06-30,1402.05,Unclaimed
+UP0101,Vendor,Murphy Ltd,Stocks,2022-09-30,8436.46,Unclaimed
+UP0102,Vendor,"Phillips, Garcia and Gonzalez",Safe Deposit Box,2020-06-30,4407.13,Unclaimed
+UP0103,Vendor,Yates PLC,Insurance Claim,2022-06-30,3531.85,Claimed
+UP0104,Individual,John Mason,Stocks,2023-09-30,6610.45,Unclaimed
+UP0105,Vendor,Valencia Group,Bank Account,2023-12-31,9308.08,Unclaimed
+UP0106,Individual,Brian Jones,Stocks,2023-12-31,4900.97,Unclaimed
+UP0107,Vendor,Garza Ltd,Stocks,2023-03-31,7952.6,Unclaimed
+UP0108,Vendor,Rivera Group,Insurance Claim,2023-06-30,5411.16,Unclaimed
+UP0109,Vendor,Anderson-Clark,Stocks,2019-09-30,6161.43,Claimed
+UP0110,Individual,Kathleen Ward,Insurance Claim,2019-03-31,5611.67,Claimed
+UP0111,Individual,Angela Morris,Safe Deposit Box,2019-06-30,7377.97,Unclaimed
+UP0112,Vendor,"Campbell, Morgan and Stevenson",Bonds,2022-06-30,9264.18,Unclaimed
+UP0113,Vendor,Le and Sons,Insurance Claim,2022-03-31,4797.2,Claimed
+UP0114,Vendor,Poole LLC,Uncashed Check,2018-03-31,2518.61,Unclaimed
+UP0115,Vendor,Edwards-Flynn,Bank Account,2021-03-31,8206.69,Unclaimed
+UP0116,Vendor,"Franklin, Harmon and Duncan",Uncashed Check,2023-06-30,5107.18,Claimed
+UP0117,Individual,Jessica Short,Insurance Claim,2023-03-31,2738.83,Unclaimed
+UP0118,Vendor,"Miller, Rivera and Romero",Stocks,2020-03-31,3644.11,Unclaimed
+UP0119,Individual,Danielle Wall,Uncashed Check,2020-03-31,1622.35,Unclaimed
+UP0120,Individual,Michael Boyd,Safe Deposit Box,2019-12-31,7498.29,Claimed
+UP0121,Vendor,Robinson-Reese,Stocks,2019-06-30,725.97,Claimed
+UP0122,Individual,Kimberly Reed,Stocks,2021-06-30,5254.38,Unclaimed
+UP0123,Vendor,Mitchell LLC,Uncashed Check,2018-12-31,449.73,Unclaimed
+UP0124,Vendor,Sullivan-Adams,Safe Deposit Box,2018-12-31,8369.99,Unclaimed
+UP0125,Vendor,"Harris, Ellis and Rodgers",Bank Account,2021-03-31,3440.22,Unclaimed
+UP0126,Individual,Joseph Wright,Safe Deposit Box,2023-06-30,6301.12,Unclaimed
+UP0127,Individual,Cynthia Thompson,Uncashed Check,2020-06-30,3117.56,Unclaimed
+UP0128,Vendor,"Lara, Morgan and Warren",Bonds,2022-03-31,5809.68,Unclaimed
+UP0129,Individual,Patrick Petersen,Bonds,2019-12-31,9029.75,Unclaimed
+UP0130,Individual,Morgan Patterson,Insurance Claim,2020-06-30,6128.39,Claimed
+UP0131,Vendor,"Lamb, Webb and Moore",Insurance Claim,2021-09-30,6478.84,Unclaimed
+UP0132,Vendor,"Pace, Henry and Williams",,2022-12-31,7508.06,Claimed
+UP0133,Vendor,Morris-Knox,Stocks,2023-12-31,1585.96,Claimed
+UP0134,Individual,Richard Gross,Uncashed Check,2019-09-30,349.92,Claimed
+UP0135,Individual,Katherine Ingram,Safe Deposit Box,2023-12-31,3198.57,Unclaimed
+UP0136,Vendor,CHURCH LLC,Bonds,2022-06-30,5064.99,Unclaimed
+UP0137,Individual,Jeff Smith,Bank Account,2022-06-30,195.31,Unclaimed
+UP0138,Individual,Sarah Morse,Safe Deposit Box,2021-06-30,7615.35,Unclaimed
+UP0139,Individual,Shelly Howard,Insurance Claim,2021-03-31,1922.15,Claimed
+UP0140,Individual,Julia Barr,Insurance Claim,2019-09-30,4904.96,Unclaimed
+UP0141,Vendor,Mason LLC,Uncashed Check,2019-09-30,6561.68,Unclaimed
+UP0142,Individual,Julian Grimes,Insurance Claim,2021-09-30,9367.79,Unclaimed
+UP0143,Vendor,Cunningham Group,Stocks,2020-03-31,9221.85,Unclaimed
+UP0144,Vendor,Brown-Stewart,Insurance Claim,2023-06-30,8957.93,Unclaimed
+UP0145,Vendor,"Shaffer, Anderson and Henderson",Safe Deposit Box,2022-12-31,5917.79,Unclaimed
+UP0146,Individual,Bianca Oneill,Safe Deposit Box,2022-03-31,5418.93,Claimed
+UP0147,Vendor,Wise Group,Safe Deposit Box,2018-09-30,9710.85,Unclaimed
+UP0148,Vendor,"Wilson, Stewart and Padilla",Uncashed Check,2023-06-30,3123.39,Unclaimed
+UP0149,Individual,James Martinez,Bonds,2018-03-31,7491.32,Claimed
+UP0150,Individual,Christina Thompson,Safe Deposit Box,2018-12-31,9727.89,Unclaimed
 UP0151,Individual,,Bank Account,2022-03-31,8287.14,Claimed
-UP0152,Individual,Kathleen Valentine,Insurance Claim,2018-06-30,4411.77,Unclaimed
-UP0153,Individual,Courtney Snyder,Insurance Claim,2018-12-31,2013.01,Unclaimed
-UP0154,Individual,Mary Wolf,Insurance Claim,2022-03-31,4394.38,Unclaimed
-UP0155,Individual,Michael Johnson,Stocks,2022-09-30,3807.01,Unclaimed
-UP0156,Individual,Douglas Melton,Bonds,2023-06-30,7611.14,Unclaimed
-UP0157,Vendor,Ball-Wilson,Safe Deposit Box,2019-03-31,9643.94,Unclaimed
-UP0158,Individual,Michele Myers,Insurance Claim,2020-03-31,5978.66,Unclaimed
-UP0159,Vendor,Walker-Stewart,Bank Account,2019-03-31,8066.67,Unclaimed
-UP0160,Vendor,Rogers-Gill,Bonds,2023-12-31,7121.39,Unclaimed
-UP0161,Individual,Emily Parker,Insurance Claim,2022-12-31,9219.93,Claimed
+UP0152,Individual,Nathan Mueller,Insurance Claim,2018-06-30,4411.77,Unclaimed
+UP0153,Individual,Richard Smith,Insurance Claim,2018-12-31,2013.01,Unclaimed
+UP0154,Individual,Chelsea Roman,Insurance Claim,2022-03-31,4394.38,Unclaimed
+UP0155,Individual,Jorge Hartman,Stocks,2022-09-30,3807.01,Unclaimed
+UP0156,Individual,Nicole Valdez,Bonds,2023-06-30,7611.14,Unclaimed
+UP0157,Vendor,Baker-Rodriguez,Safe Deposit Box,2019-03-31,9643.94,Unclaimed
+UP0158,Individual,Carrie Patterson,Insurance Claim,2020-03-31,5978.66,Unclaimed
+UP0159,Vendor,Davis-Fritz,Bank Account,2019-03-31,8066.67,Unclaimed
+UP0160,Vendor,Murphy-Jones,Bonds,2023-12-31,7121.39,Unclaimed
+UP0161,Individual,Joanne Young PhD,Insurance Claim,2022-12-31,9219.93,Claimed
 UP0162,Vendor,,Bonds,2021-09-30,7621.92,Claimed
-UP0163,Individual,Melissa Hess,Safe Deposit Box,2018-06-30,2284.52,Unclaimed
-UP0164,Individual,Ricardo Lopez,Bonds,2020-06-30,3458.01,Unclaimed
-UP0165,Individual,Brittany Jimenez,Safe Deposit Box,2018-12-31,9345.09,Unclaimed
-UP0166,Individual,Kimberly Anderson,,2018-09-30,1332.72,Unclaimed
-UP0167,Individual,Spencer Jones,Insurance Claim,2021-03-31,2977.64,Unclaimed
-UP0168,Vendor,Dyer-Robles,Uncashed Check,2019-09-30,8419.95,Claimed
-UP0169,Individual,William Thompson,Insurance Claim,2022-12-31,3937.61,Claimed
-UP0170,Individual,Elizabeth Bailey,Stocks,2022-12-31,7409.9,Unclaimed
-UP0171,Vendor,Roberts and Sons,Safe Deposit Box,2020-03-31,2978.52,Unclaimed
-UP0172,Individual,Lori Wright,Bank Account,2020-12-31,8048.58,Unclaimed
-UP0173,Vendor,James-Reeves,Bonds,2020-06-30,8932.6,Unclaimed
-UP0174,Individual,Michael Anderson,Bank Account,2023-03-31,6992.66,Claimed
-UP0175,Vendor,"Mata, Koch and Barrett",Safe Deposit Box,2022-12-31,7273.17,Unclaimed
-UP0176,Individual,Danielle Taylor,Uncashed Check,2023-06-30,978.17,Unclaimed
-UP0177,Individual,Adam Perry,Bank Account,2023-06-30,571.25,Claimed
-UP0178,Vendor,"Andrews, Cohen and Stokes",Bonds,2020-03-31,5699.06,Unclaimed
-UP0179,Individual,Jennifer Nguyen,Bank Account,2022-09-30,3221.35,Claimed
-UP0180,Vendor,Gregory and Sons,Safe Deposit Box,2022-06-30,1938.42,Unclaimed
-UP0181,Individual,Kevin Collins,Bonds,2020-03-31,1951.76,Unclaimed
-UP0182,Vendor,Holder-Roberts,Bonds,2021-06-30,709.83,Unclaimed
-UP0183,Vendor,Alexander Group,Bank Account,2020-09-30,6161.85,Claimed
-UP0184,Vendor,"Oconnor, Kim and Greer",Bank Account,2023-06-30,9970.75,Unclaimed
-UP0185,Vendor,"Rivera, Galloway and Cook",Safe Deposit Box,2023-03-31,9589.7,Unclaimed
-UP0186,Individual,Melanie Gallegos,Bank Account,2021-12-31,90.43809999999999,Unclaimed
-UP0187,Vendor,"Marshall, Mack and Raymond",Safe Deposit Box,2023-03-31,239.24,Claimed
-UP0188,Individual,Edward Hawkins,Stocks,2018-03-31,5707.05,Claimed
-UP0189,Vendor,Arnold PLC,Safe Deposit Box,2022-12-31,7773.12,Unclaimed
-UP0190,Individual,Michelle Webster,Stocks,2018-06-30,8779.92,Unclaimed
-UP0191,Individual,Nicholas Miller,Safe Deposit Box,2023-12-31,4469.98,Unclaimed
-UP0192,Vendor,Griffith-Kennedy,Bonds,2018-03-31,7301.4,Claimed
-UP0193,Individual,Jeffrey Short,Uncashed Check,2021-03-31,539.83,Unclaimed
-UP0194,Vendor,Mcintyre PLC,Stocks,2020-12-31,4815.28,Unclaimed
-UP0195,Individual,Andrew Shelton,Insurance Claim,2020-06-30,4385.7,Unclaimed
-UP0196,Individual,Carrie Lewis,Bonds,2023-12-31,6836.67,Unclaimed
-UP0197,Individual,Gilbert Proctor,Safe Deposit Box,2021-09-30,4502.37,Unclaimed
-UP0198,Individual,Maria Pace,Bank Account,2022-03-31,1972.16,Claimed
-UP0199,Vendor,"Briggs, Brown and Colon",Bonds,2019-09-30,8522.53,Claimed
-UP0200,Individual,Kyle Atkinson,Insurance Claim,2020-09-30,9202.68,Unclaimed
-UP0165,Individual,Brittany Jimenez,Safe Deposit Box,2018-12-31,9345.09,Unclaimed
-UP0111,Individual,Harold Goodwin,Safe Deposit Box,2019-06-30,7377.97,Unclaimed
-UP0038,Vendor,Hall Inc,Bank Account,2019-12-31,810.77,Claimed
-UP0130,Individual,Kristin Taylor,Insurance Claim,2020-06-30,6128.39,Claimed
+UP0163,Individual,Brianna Moore,Safe Deposit Box,2018-06-30,2284.52,Unclaimed
+UP0164,Individual,Denise Perez,Bonds,2020-06-30,3458.01,Unclaimed
+UP0165,Individual,Monica James,Safe Deposit Box,2018-12-31,9345.09,Unclaimed
+UP0166,Individual,Kimberly Cook,,2018-09-30,1332.72,Unclaimed
+UP0167,Individual,Amanda King,Insurance Claim,2021-03-31,2977.64,Unclaimed
+UP0168,Vendor,"Griffin, Clark and Jones",Uncashed Check,2019-09-30,8419.95,Claimed
+UP0169,Individual,Teresa Gibbs,Insurance Claim,2022-12-31,3937.61,Claimed
+UP0170,Individual,Sharon Morgan,Stocks,2022-12-31,7409.9,Unclaimed
+UP0171,Vendor,Livingston-Douglas,Safe Deposit Box,2020-03-31,2978.52,Unclaimed
+UP0172,Individual,Daniel Campbell,Bank Account,2020-12-31,8048.58,Unclaimed
+UP0173,Vendor,Fischer and Sons,Bonds,2020-06-30,8932.6,Unclaimed
+UP0174,Individual,James Taylor MD,Bank Account,2023-03-31,6992.66,Claimed
+UP0175,Vendor,Flores-Weaver,Safe Deposit Box,2022-12-31,7273.17,Unclaimed
+UP0176,Individual,Kenneth Schmitt,Uncashed Check,2023-06-30,978.17,Unclaimed
+UP0177,Individual,Nancy Ortiz,Bank Account,2023-06-30,571.25,Claimed
+UP0178,Vendor,"Mooney, Stout and Collier",Bonds,2020-03-31,5699.06,Unclaimed
+UP0179,Individual,Ian Mcneil,Bank Account,2022-09-30,3221.35,Claimed
+UP0180,Vendor,Rhodes Inc,Safe Deposit Box,2022-06-30,1938.42,Unclaimed
+UP0181,Individual,Shirley Hernandez,Bonds,2020-03-31,1951.76,Unclaimed
+UP0182,Vendor,Taylor-Robinson,Bonds,2021-06-30,709.83,Unclaimed
+UP0183,Vendor,Richard-Powers,Bank Account,2020-09-30,6161.85,Claimed
+UP0184,Vendor,Smith-Paul,Bank Account,2023-06-30,9970.75,Unclaimed
+UP0185,Vendor,"Gonzalez, Burch and Wilkerson",Safe Deposit Box,2023-03-31,9589.7,Unclaimed
+UP0186,Individual,Kathleen Henry,Bank Account,2021-12-31,90.43809999999999,Unclaimed
+UP0187,Vendor,"Morris, Hoover and Wilson",Safe Deposit Box,2023-03-31,239.24,Claimed
+UP0188,Individual,Thomas Warren,Stocks,2018-03-31,5707.05,Claimed
+UP0189,Vendor,Kramer and Sons,Safe Deposit Box,2022-12-31,7773.12,Unclaimed
+UP0190,Individual,Steven Bryan,Stocks,2018-06-30,8779.92,Unclaimed
+UP0191,Individual,Ronald Morgan,Safe Deposit Box,2023-12-31,4469.98,Unclaimed
+UP0192,Vendor,"Young, Klein and Khan",Bonds,2018-03-31,7301.4,Claimed
+UP0193,Individual,Carolyn Dickson,Uncashed Check,2021-03-31,539.83,Unclaimed
+UP0194,Vendor,Williams-Mitchell,Stocks,2020-12-31,4815.28,Unclaimed
+UP0195,Individual,Erin Frost,Insurance Claim,2020-06-30,4385.7,Unclaimed
+UP0196,Individual,Andrew Kennedy,Bonds,2023-12-31,6836.67,Unclaimed
+UP0197,Individual,Shannon Wright,Safe Deposit Box,2021-09-30,4502.37,Unclaimed
+UP0198,Individual,Sandra Porter,Bank Account,2022-03-31,1972.16,Claimed
+UP0199,Vendor,Ford-Stuart,Bonds,2019-09-30,8522.53,Claimed
+UP0200,Individual,Tony Johnson,Insurance Claim,2020-09-30,9202.68,Unclaimed
+UP0165,Individual,Monica James,Safe Deposit Box,2018-12-31,9345.09,Unclaimed
+UP0111,Individual,Angela Morris,Safe Deposit Box,2019-06-30,7377.97,Unclaimed
+UP0038,Vendor,Becker-Jacobs,Bank Account,2019-12-31,810.77,Claimed
+UP0130,Individual,Morgan Patterson,Insurance Claim,2020-06-30,6128.39,Claimed
