@@ -1,1 +1,7 @@
 treasury
+target/
+dbt_packages/
+logs/
+profiles.yml
+.user.yml
+.gitignore
